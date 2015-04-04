@@ -1183,12 +1183,16 @@
 	{
 		position: relative;
 		margin: 0;
-		background: url('../images/background6.jpg');
-		background-size: cover;
+		background: url('../images/bg-3.png') no-repeat;
+		background-size: 100%;
 		background-position: center center;
-		padding: 14em 0 14em 0;
+		height: 700px;
 		text-align: center;
 		color: #fff;
+	}
+
+	h4 {
+		font-size: 30px;
 	}
 	
 		#header:after
@@ -1235,6 +1239,7 @@
 		{
 			padding-top: 1.5em;
 		}
+
 	
 /*********************************************************************************/
 /* Main Sections                                                                 */
@@ -1289,7 +1294,7 @@
 			
 			.main > .content.style1
 			{
-				background-color: #76c69c;
+				background-color: #72bfcf;
 			}
 
 			.main > .content.style2
