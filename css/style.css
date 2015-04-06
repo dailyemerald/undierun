@@ -1184,9 +1184,9 @@
 		position: relative;
 		margin: 0;
 		background: url('../images/bg-3.png') no-repeat;
-		background-size: 100%;
-		background-position: center center;
-		height: 700px;
+		background-position: top center;
+		background-size: cover;
+		height: 1000px;
 		text-align: center;
 		color: #fff;
 	}
